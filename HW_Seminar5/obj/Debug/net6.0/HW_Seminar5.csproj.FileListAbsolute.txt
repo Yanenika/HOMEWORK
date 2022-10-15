@@ -1,0 +1,5 @@
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar5\obj\Debug\net6.0\HW_Seminar5.csproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar5\obj\Debug\net6.0\HW_Seminar5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar5\obj\Debug\net6.0\HW_Seminar5.AssemblyInfoInputs.cache
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar5\obj\Debug\net6.0\HW_Seminar5.AssemblyInfo.cs
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar5\obj\Debug\net6.0\HW_Seminar5.csproj.CoreCompileInputs.cache

@@ -170,29 +170,13 @@ void ShowArray(int[] array)
     Console.WriteLine();
 }
 
-int FindArray(int[] array)
+void FindArray(int[] array)
 {
-    int count = 0;
-    int size = array.Length;
-    int[] newarray = new int[size];
-    for (int i = 0; i <= (size-1); i++)
+    int[] newArray = new int[array.Length / 2];
+    for (int i = 0, last = array.Length-1; i < last; i++, last--)
     {
-        if (size % 2 == 0)
-        {
-           newarray = array[i] * array[size-i];
-           count++;
-        }
-
-        else 
-        {
-           for (int i = 0; i < size / 2; i++)
-           {
-             newarray = array[i] * array[size-i];
-             count++;
-           }
-        }
+       array[i] = array[i] * array[last];
     }
-    return newarray;
 }
 
 Console.Write($"Ввведите размер массива" + " ");
@@ -200,9 +184,10 @@ int size = Convert.ToInt32(Console.ReadLine());
 
 int[] myArray = CreateArray(size);
 ShowArray(myArray);
-
-int findArray = FindArray(myArray);
-Console.WriteLine($" Результат вычислений {findArray}");
+FindArray(myArray);
+//int[] findArray = FindArray(myArray);
+ShowArray(myArray);
+//Console.WriteLine($" Результат вычислений {FindArray(myArray)}");
 
 /*
 int[] CreateArray(int size)

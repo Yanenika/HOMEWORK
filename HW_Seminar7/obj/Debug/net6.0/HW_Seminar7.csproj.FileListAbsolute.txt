@@ -1,0 +1,15 @@
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\obj\Debug\net6.0\HW_Seminar7.csproj.AssemblyReference.cache
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\obj\Debug\net6.0\HW_Seminar7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\obj\Debug\net6.0\HW_Seminar7.AssemblyInfoInputs.cache
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\obj\Debug\net6.0\HW_Seminar7.AssemblyInfo.cs
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\obj\Debug\net6.0\HW_Seminar7.csproj.CoreCompileInputs.cache
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\bin\Debug\net6.0\HW_Seminar7.exe
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\bin\Debug\net6.0\HW_Seminar7.deps.json
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\bin\Debug\net6.0\HW_Seminar7.runtimeconfig.json
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\bin\Debug\net6.0\HW_Seminar7.dll
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\bin\Debug\net6.0\HW_Seminar7.pdb
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\obj\Debug\net6.0\HW_Seminar7.dll
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\obj\Debug\net6.0\refint\HW_Seminar7.dll
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\obj\Debug\net6.0\HW_Seminar7.pdb
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\obj\Debug\net6.0\HW_Seminar7.genruntimeconfig.cache
+C:\Users\Валерия\Desktop\Programming Language\HomeWork\HW_Seminares\HW_Seminar7\obj\Debug\net6.0\ref\HW_Seminar7.dll
